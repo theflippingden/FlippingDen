@@ -1,5 +1,5 @@
 [[redirects]]
     from = "/*"
-    to = "https://your_domain.com"
+    to = "https://theflippingden.com/home"
     status = 301
     force = true
